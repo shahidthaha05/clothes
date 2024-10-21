@@ -1,0 +1,37 @@
+.main{
+    height: 50px;
+    width: 101%;
+    background-color: antiquewhite;
+    margin: -8px;
+}
+.sub_main{
+    height: 150px;
+    width: 101%;
+    background-color: black;
+    margin: -8px;
+    color: white;
+}
+#shop{
+    margin-left: 35rem;
+    padding-top: 45px;
+}
+#review{
+    margin-left: 42rem;
+    margin-top: -18px;
+}
+#about{
+    margin-left: 48rem;
+    margin-top: -18px;
+}
+#contact{
+    margin-left: 54rem;
+    margin-top: -18px;
+}
+#search{
+    margin-left: 62rem;
+    margin-top: -22px;
+}
+#img{
+    margin-left: 78rem;
+    margin-top: -22px;
+}
